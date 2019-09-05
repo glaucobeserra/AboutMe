@@ -12,6 +12,7 @@
         \n\nDado o fluxo de dados atual, a compilação final do programa causou a race condition na organização alfanumérico dos arrays multidimensionais
         \nA equipe de suporte precisa saber que a otimização de performance da renderização do DOM otimizou a renderização dos argumentos que definem um schema dinâmico.
         \n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
 
 
 </resources>
