@@ -13,6 +13,7 @@
         \nA equipe de suporte precisa saber que a otimização de performance da renderização do DOM otimizou a renderização dos argumentos que definem um schema dinâmico.
         \n\n</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 
 
 </resources>
