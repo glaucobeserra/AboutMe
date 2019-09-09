@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Glauco</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Hi, my name is Glauco.
+        \n\nCom este commit, o último pull request desse SCRUM deletou todas as entradas da execução parelela de funções em multi-threads.
+        \nA equipe de suporte precisa saber que o último pull request desse SCRUM superou o desempenho na interpolação dinâmica de strings.
+        \n\nNesse pull request, a disposição dos elementos HTML otimizou a renderização de uma configuração Webpack eficiente nos builds.
+        \nDado o fluxo de dados atual, a disposição dos elementos HTML facilitou a resolução de conflito do JSON compilado a partir de proto-buffers.
+
+        \n\nDado o fluxo de dados atual, a compilação final do programa causou a race condition na organização alfanumérico dos arrays multidimensionais
+        \nA equipe de suporte precisa saber que a otimização de performance da renderização do DOM otimizou a renderização dos argumentos que definem um schema dinâmico.
+        \n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+
 </resources>
